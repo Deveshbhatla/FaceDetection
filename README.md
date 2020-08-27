@@ -1,2 +1,2 @@
 # FaceDetection
-Face Dection App using Google Firebase ML Kit.
+Face Dection Application using Google Firebase ML Kit.
